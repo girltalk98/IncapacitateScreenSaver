@@ -1,0 +1,3 @@
+# IncapacitateScreenSaver  
+
+Prevent Screen Saver
